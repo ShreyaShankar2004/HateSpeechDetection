@@ -65,6 +65,7 @@ Working of Project:- Flow Diagram:
 
 Flow:
 
+
 <img width="400" height="488" alt="image" src="https://github.com/user-attachments/assets/c95d0a9e-57b6-460d-81bd-ed64a554f1a0" />
 
 •	Social Media Post / Tweet: The raw input text from platforms like Twitter or Facebook that will be analyzed.
@@ -83,9 +84,11 @@ Test Accuracy: The model correctly predicted about 93.6% of all test samples ove
 
 Performance Metrics:
 
+
 <img width="541" height="190" alt="image" src="https://github.com/user-attachments/assets/002ca4d4-e4c2-41ee-8015-50b23df6558e" />
 
 Confusion Matrix:
+
 
 <img width="397" height="348" alt="image" src="https://github.com/user-attachments/assets/6fc870a1-dd86-4c63-822d-2515c1967dfe" />
 
@@ -96,6 +99,9 @@ Future Scope:
  
 Conclusion:
 -Implemented ROBERTa base Transformer model for offensive language detection.
+
 -The model achieved high test accuracy (93.57).
+
 -Models successfully differentiated between Offensive and Safe language.
+
 -Natural Language Processing and Deep learning helped in understanding and classifying the texts.
