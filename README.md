@@ -1,4 +1,4 @@
-                                Automated Detection of Hate Speech/Offensive Language in Social Media Using a Transformer
+# Automated Detection of Hate Speech/Offensive Language in Social Media Using a Transformer
 
 Scope:- Introduction:
 What is Hate Speech?
